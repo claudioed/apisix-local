@@ -18,7 +18,7 @@ It is a simple recipe to spin-up a [Apisix](https://apisix.apache.org/) using Ki
 2. Execute [script](/apisix/apisix.sh)
 
 ```shell
-./kong.sh
+./apisix.sh
 ```
 
 ### Admin Port
